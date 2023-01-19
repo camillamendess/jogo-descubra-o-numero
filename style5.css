@@ -1,0 +1,55 @@
+body {
+    background-image: url(capa.jpg);
+    background-size: 100%;
+    font: normal 15pt Comic Sans MS, Comic Sans, cursive;
+    margin: 3em 2px 0 50px;
+}
+
+#num {
+    border-radius: 4px;
+    height: 20px;
+}
+
+#btApostar {
+    width: 150px;
+    height: 30px;
+    border-radius: 2px;
+    border-width: 1px;
+    color: #ffffff;
+    border-color: #337fed;
+    font-weight: bold;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    box-shadow: inset 0px 1px 0px 0px #97c4fe;
+    text-shadow: inset 0px 1px 0px #1570cd;
+    background: linear-gradient(#3d94f6, #1e62d0);
+}
+
+#btJogar {
+    width: 150px;
+    height: 30px;
+    border-radius: 2px;
+    border-width: 1px;
+    color: #ffffff;
+    border-color: #337fed;
+    font-weight: bold;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    box-shadow: inset 0px 1px 0px 0px #97c4fe;
+    text-shadow: inset 0px 1px 0px #1570cd;
+    background: linear-gradient(#3d94f6, #1e62d0);
+}
+
+.res {
+    background-color: aliceblue;
+    width: 540px;
+    height: 30%;
+    margin-top: 20px;
+    border-radius: 4px;
+    box-shadow: 3px 3px 10px rgb(73, 41, 41);
+    padding: 2px 20px 2px 20px;
+}
