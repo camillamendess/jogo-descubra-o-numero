@@ -12,6 +12,10 @@ body {
     align-items: center;
 }
 
+#title{
+    color: white;
+}
+
 #num {
     width: 10%;
     height: 25px;
