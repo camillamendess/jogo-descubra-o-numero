@@ -7,7 +7,7 @@
 - O jogo vai gerar um número aleatório entre 1 e 100 que deve ser descoberto pelo usuário, contendo dicas para acertar.
 
 <br><p align="center">
-  <img alt="cap" src="capa2.png" width="80%">
+  <img alt="cap" src="capa2.jpg" width="80%">
   </p>
 
 
